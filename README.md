@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TeddyKool, I’m interested in optical tech and based on Pi and Arduino I'm building two projects.
+- 🌱 I’m reading up on <b>(X)HTML<b/> and <b>CSS<b/>, but currently <b>Python<b/> is the main focus, for which I recently subscribed on <b>Udemy<b/>.
+- 📫 You can reach me either here or by email teddy.cool.be@gmail.com
